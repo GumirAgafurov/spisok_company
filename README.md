@@ -1,2 +1,3 @@
-# spisok_company
-spisok
+1. **Установка:**
+```bash
+npm install
